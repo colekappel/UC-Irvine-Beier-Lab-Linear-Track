@@ -5,3 +5,5 @@
 - after running either **AnalysisProgramDay1_PlaceCells.m** or **AnalysisProgramDay1.m**, run **EndBinsRemoved_AllPlotsAndStats.m** to get the statistics (lme models, t test, ks test, box plots, cdf plots, and heat maps of place cells) - the statistics compare the healthy mice to the mice in the 5xFAD+ group
 
 - **infoScore.m, getEventRatePerBinMatx.m, randoSpikeMatrix.m and sparsityFunc.m** are functions used by **AnalysisFunctionPlaceCells.m and AnalysisFunction.m**
+
+- you will need to have the following toolboxes installed to run these programs: Image Processing Toolbox, SimBiology, Statistics and Machine Learning Toolbox, Symbolic Math Toolbox
